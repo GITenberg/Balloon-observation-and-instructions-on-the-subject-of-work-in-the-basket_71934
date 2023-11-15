@@ -1,0 +1,36 @@
+_repo: Balloon-observation-and-instructions-on-the-subject-of-work-in-the-basket_71934
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. War Department. Division of Military Aeronautics
+    aliases:
+    - United States. War Dept. Division of Military Aeronautics
+    - Aeronautics, United States. War Department. Division of Military
+    - Aeronautics, U.S. Army Division of Military
+    gutenberg_agent_id: '56464'
+    url: http://www.gutenberg.org/2009/agents/56464
+    wikipedia: https://en.wikipedia.org/wiki/Division_of_Military_Aeronautics
+description: ''
+gutenberg_issued: '2023-10-23'
+identifiers:
+  gutenberg: '71934'
+language: en
+pgterms:marc904: https://archive.org/details/balloonobservati00unit
+pgterms:marc905: 20230420065254divisionof
+pgterms:marc906: '1918'
+pgterms:marc907: us
+production_note: Aaron Adrignola and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aWashington :$bGovernment Printing Office, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Balloons'
+- !lcsh 'Aerial observation (Military science)'
+- !lcsh 'Military reconnaissance'
+- !lcsh 'Aerial reconnaissance'
+- !lcc 'UG'
+- GITenberg
+title: Balloon observation, and instructions on the subject of work in the basket
+url: http://www.gutenberg.org/ebooks/71934
